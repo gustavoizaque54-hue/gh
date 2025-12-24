@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx_cheat.Form1.resources
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx_cheat.Properties.Resources.resources
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.dll
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\refint\Gx cheat.dll
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\Gx cheat.pdb
+C:\Users\gusta\source\repos\Gx cheat\bin\Debug\net7.0-windows\Gx cheat.deps.json
+C:\Users\gusta\source\repos\Gx cheat\bin\Debug\net7.0-windows\Gx cheat.dll
+C:\Users\gusta\source\repos\Gx cheat\bin\Debug\net7.0-windows\Gx cheat.pdb
+C:\Users\gusta\source\repos\Gx cheat\obj\Debug\net7.0-windows\ref\Gx cheat.dll
